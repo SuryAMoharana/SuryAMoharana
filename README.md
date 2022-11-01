@@ -11,8 +11,8 @@
 <p align="left">
 <a href="https://twitter.com/SuryAMoharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryamoharana" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/surya-moharana-23a48b248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-moharana-23a48b248/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/suryachintu1994/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suryachintu1994/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/fp03_265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/fp03_265" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/https://leetcode.com/suryachintu1994/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suryachintu1994/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/fp03_265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/fp03_265" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
