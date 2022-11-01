@@ -1,3 +1,4 @@
+![logo](https://github.com/SuryAMoharana/SuryAMoharana/blob/main/GitHub_Banner.png)
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/surya-moharana-23a48b248/">
