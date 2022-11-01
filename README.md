@@ -1,78 +1,28 @@
 ![logo](https://github.com/SuryAMoharana/SuryAMoharana/blob/main/GitHub_Banner.png)
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Surya Moharana</h1>
+<h3 align="center">A passionate JAVA Back-End Developer</h3>
+<img align="right" alt="coding" width="500" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
 
-<a href="https://www.linkedin.com/in/surya-moharana-23a48b248/">
-  <img align="left" alt="Surya Moharana's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryamoharana&label=Profile%20views&color=0e75b6&style=flat" alt="suryamoharana" /> </p>
 
-<a href="https://www.hackerrank.com/fp03_265">
-  <img align="left" alt="Surya Moharana's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
-</a>
- 
-<br />
+- 🌱 I’m currently learning **Spring Boot**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/SuryAMoharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryamoharana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/surya-moharana-23a48b248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-moharana-23a48b248/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/suryachintu1994/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suryachintu1994/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/fp03_265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/fp03_265" height="30" width="40" /></a>
+</p>
 
-Hi, I'm [Surya Moharana](https://github.com/SuryAMoharana), passionate for learning with an endless supply of optimism and curiosity.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/SuryAMoharana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/SuryAMoharana" /></a></p><br><br>
 
-  <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
-  
-  
-An Aspiring Java Backend Developer. An individual who can write clean and optimize code. Like to solve Data Structure and Algorithm problems. Looking for enhancing my skills as a Backend Developer.
-  
-- 💬 ask me about anything, I would love to help ;)
-- 👨‍💻 Checkout my Portfolio [Portfolio](https://suryamoharan.netlify.app/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamoharana&show_icons=true&locale=en&layout=compact" alt="suryamoharana" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryamoharana&show_icons=true&locale=en" alt="suryamoharana" /></p>
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
-<!-- 
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></code>
-    <code><img height="25" src="https://www.nicepng.com/png/detail/111-1116276_computer-science-i-syllabus-and-grading-policy-c.png" ></code>
-    <code><img height="25" src="https://plotly.com/all_static/images/icon-csharp.png"></code>
-    <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
-    <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png"></code>
-    <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></code>
-    <code><img height="25" src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-ovfzvrnm7u9pk6tpkts9r094e1d1uh7si7evpflqpc.png" ></code>
-    <code><img height="25" src="https://bsquare.co.in/assets/php_icon.png"></code>
-    <code><img height="25" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png"></code>
-    <code><img height="25" src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg"></code>
-    <!--END_SECTION:waka-->
-
-
-<br>
-<span><h2 align="center">Languages and Tools:</h2>
-  <br>
-  <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" height="55"/>
-      <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
-</p></span>
-
-<!-- <br /><br />
-<h2 align="center">📊 My Github Stats<h2>
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
-  </br> -->
-  
-<!-- <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
-<div>
- -->
-  
-<!--  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryamoharana&" alt="suryamoharana" /></p>
