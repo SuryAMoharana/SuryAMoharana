@@ -1,6 +1,6 @@
-<p align='center' style='margin: 16px 4px 8px;'>
+<!-- <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://optymize.io/wp-content/uploads/2022/03/Java-Devlopers.png" width="800" height="300" alt="Hello World" />
-</p>
+</p> -->
 
 <h1 align="center">
     Hi <img src='https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif' height='40' alt='there'>, I'm Surya Moharana
