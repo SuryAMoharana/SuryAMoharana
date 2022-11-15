@@ -1,34 +1,119 @@
-![logo](https://github.com/SuryAMoharana/SuryAMoharana/blob/main/GitHub_Banner.png)
-<h1 align="center">Hi 👋, I'm Surya Moharana</h1>
-<h3 align="center">A passionate JAVA Back-End Developer</h3>
-<br>
-<img align="right" alt="coding" width="500" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryamoharana&label=Profile%20views&color=0e75b6&style=flat" alt="suryamoharana" /> </p>
-
-- 🌱 I’m currently learning **Spring Boot**
-<br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/SuryAMoharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryamoharana" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/surya-moharana-23a48b248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-moharana-23a48b248/" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/https://leetcode.com/suryachintu1994/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suryachintu1994/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/fp03_265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/fp03_265" height="30" width="40" /></a> -->
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
-<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h1 align="center">
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Surya Moharana
+</h1>
 
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/SuryAMoharana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/SuryAMoharana" /></a></p><br><br><br><br> -->
-<br>
-<br>
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate Java Back-End Developer from India." />
+</p>
+
+<h3 align='center' style='margin: 16px 4px;'>
+    <a href='https://suryamoharana.github.io/'>My Portfolio Website</a>
+</h3>
+
+<!-- <h3 align="center">
+    I am a Senior System Software Engineer (Autonomous Vehicles) at NVIDIA Graphics Pvt. Ltd., Pune, India.<br />
+    I am Computer Science Graduate from BITS Pilani, Rajasthan, India.<br />
+    I like solving competitive coding problems, exploring new technologies, drawing, painting, travelling and gaming.
+</h3> -->
+
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="./assets/dev-working_rounded.gif" alt="working developer">
+</p>
+
+<p align="center" style='margin: 16px 4px 8px;'>
+    <img src="https://komarev.com/ghpvc/?username=suryamoharana&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
+</p>
+
+<p align="center" style='margin: 16px 4px 8px;'>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=suryamoharana&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+    </a>
+</p>
+
+<!-- <p align="center" style='margin: 16px 4px 16px;'>
+    <a href="https://twitter.com/SuryAMoharana" target="blank">
+        <img src="https://img.shields.io/twitter/follow/suryamoharana?logo=twitter&style=for-the-badge" alt="twitter followers" />
+    </a>
+</p> -->
+
+<p align='center' style='font-size: 16px;'>
+    ⚡ Fun fact: <strong>Skills does not needed any Certification.</strong>
+</p>
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Connect with me:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+    <a href="https://twitter.com/SuryAMoharana" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/SuryAMoharana" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="mailto:suryachintu1994@gmail.com" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:suryachintu1994@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/surya-moharana-23a48b248/" target="blank" rel="noreferrer">
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/surya-moharana-23a48b248/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.hackerearth.com/https://www.hackerrank.com/fp03_265" target="blank" rel="noreferrer">
+        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerearth.com/https://www.hackerrank.com/fp03_265" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+</p>
+
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+    Languages and Tools:
+</h3>
+<p align="center" style='margin: 16px 4px 32px;'>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+</p>
+
+<h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
+    Stats
+</h3>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamoharana&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="suryamoharana" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-stats.vercel.app/api?username=suryamoharana&show_icons=true&locale=en&theme=gruvbox" alt="suryamoharana" />
+</p>
+
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryamoharana&theme=gruvbox" alt="suryamoharana" />
+</p>
+
+![Profile Stats](https://activity-graph.herokuapp.com/graph?username=SuryAMoharana&theme=chartreuse-dark)  
+
+<!-- 
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true) -->
 
 
-
-<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamoharana&show_icons=true&locale=en&layout=compact" alt="suryamoharana" /></p>
-
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=suryamoharana&show_icons=true&locale=en" alt="suryamoharana" /></p>
+<p align="center" style='margin: 8px 4px;'>
+    <img src="https://s3.envato.com/files/79536798/mdesign.jpg" alt="utkarshpathrabe" />
+</p>
