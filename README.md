@@ -63,29 +63,29 @@
     Languages and Tools:
 </h3>
 <p align="center" style='margin: 16px 4px 32px;'>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
+    <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>    
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://swagger.io/tools/swagger-ui/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
+    <a href="https://www.coreldraw.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://a.omappapi.com/users/41932b4c7956/images/c01c647135601644865786-sub-icon-cdgs-facebook-360x360.png" alt="swagger" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 </p>
 
