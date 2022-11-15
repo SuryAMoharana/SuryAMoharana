@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Surya Moharana
+    Hi <img src='https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif' height='40' alt='there'>, I'm Surya Moharana
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
