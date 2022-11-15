@@ -10,9 +10,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Java+Back-End+Developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate Java Back-End Developer from India." />
 </p>
 
-<h3 align='center' style='margin: 16px 4px;'>
+<!-- <h3 align='center' style='margin: 16px 4px;'>
     <a href='https://suryamoharana.github.io/'>My Portfolio Website</a>
-</h3>
+</h3> -->
 
 <!-- <h3 align="center">
     I am a Senior System Software Engineer (Autonomous Vehicles) at NVIDIA Graphics Pvt. Ltd., Pune, India.<br />
@@ -48,9 +48,6 @@
     Connect with me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://twitter.com/SuryAMoharana" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/SuryAMoharana" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
     <a href="mailto:suryachintu1994@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:suryachintu1994@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
