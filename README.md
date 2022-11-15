@@ -1,5 +1,5 @@
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/greetings.gif" alt="Hello World" />
+    <img src="https://optymize.io/wp-content/uploads/2022/03/Java-Devlopers.png" alt="Hello World" />
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate Java Back-End Developer from India." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+Java+Back-End+Developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate Java Back-End Developer from India." />
 </p>
 
 <h3 align='center' style='margin: 16px 4px;'>
@@ -21,7 +21,7 @@
 </h3> -->
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="./assets/dev-working_rounded.gif" alt="working developer">
+    <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="working developer">
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
