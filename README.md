@@ -54,8 +54,8 @@
     <a href="https://www.linkedin.com/in/surya-moharana-23a48b248/" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/surya-moharana-23a48b248/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.hackerearth.com/https://www.hackerrank.com/fp03_265" target="blank" rel="noreferrer">
-        <img align="center" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="https://www.hackerearth.com/https://www.hackerrank.com/fp03_265" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    <a href="https://www.hackerrank.com/fp03_265" target="blank" rel="noreferrer">
+        <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 </p>
 
